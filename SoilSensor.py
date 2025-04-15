@@ -18,7 +18,7 @@ except KeyboardInterrupt:
   print ("Exit")
 
 #GPIO SETUP
-channel = 21
+channel = 4
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
 
@@ -33,5 +33,5 @@ GPIO.add_event_callback(channel, callback) # assign function to GPIO PIN, Run fu
 
 # infinite loop
 while True:
-        time.sleep(1)
+        time.sleep(0)
 
