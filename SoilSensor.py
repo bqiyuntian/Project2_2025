@@ -24,3 +24,5 @@ try:
         else:
             print ("soil is dry")
         time.sleep(10800)
+except KeyboardInterrupt:
+    GPIO.cleanup()
