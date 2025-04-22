@@ -22,18 +22,23 @@ def callback(channel) :
     else :
         print ("water not detected!")
         lastValue = 0
-
-def send_email(subject, body) :
-    server = smtplib.SMTP("smtp.163.com", 25)
-    server.starttls()
-    server.login(from_email_addr, from_email_pass)
-    msg = EmailMessage()
-    server.sendmail(from_email_addr, to_email_addr, msg)
-    server.quit()    
-    print ("email sent")
-
 GPIO.add_event_detect(channel, GPIO.BOTH, bouncetime = 300)
 GPIO.add_event_callback(channel, callback)
+
+def send_email(subject, body) :
+    server = smtplib.SMTP('smtp.163.com', 25)
+    server.starttls()
+    server.login(from_email_addr, from_email_pass)
+   
+    msg = EmailMessage()
+    msg.set_content(body)
+    msg['Subject'] = subject
+    msg['From'] = from_email_addr
+    msg['To'] = to_email_addr
+
+    server.send_message(msg)
+    server.quit()    
+    print ("email sent")
 
 def main() :
     global lastTime, lastValue
