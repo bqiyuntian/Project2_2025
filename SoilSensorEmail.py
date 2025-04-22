@@ -59,7 +59,8 @@ def main() :
             lastValue = current_hour
 
         else:
-            print("hour difference < 4. Do not email")
+            print("hour difference < 4.")
+            send_email("waater don't needed")
 
         time.sleep(60)
 
