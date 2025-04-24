@@ -1,0 +1,84 @@
+2025-04-24 13:50:41,513 - INFO - current time hour: 13
+2025-04-24 13:51:22,724 - INFO - water detected!
+2025-04-24 13:52:01,548 - INFO - Program terminated by user
+2025-04-24 13:53:23,339 - INFO - current time hour: 13
+2025-04-24 13:54:04,414 - INFO - Program terminated by user
+2025-04-24 13:56:35,917 - INFO - current time hour: 13
+2025-04-24 13:58:26,260 - INFO - Program terminated by user
+2025-04-24 14:04:08,819 - INFO - current time hour: 14
+2025-04-24 14:05:18,641 - INFO - Program terminated by user
+2025-04-24 14:11:06,806 - INFO - water not detected!
+2025-04-24 14:11:06,806 - INFO - current time hour: 14
+2025-04-24 14:12:38,186 - INFO - Program terminated by user
+2025-04-24 14:12:40,856 - INFO - water not detected!
+2025-04-24 14:12:40,857 - INFO - current time hour: 14
+2025-04-24 14:12:43,499 - INFO - email sent
+2025-04-24 14:13:43,565 - INFO - current time hour: 14
+2025-04-24 14:13:44,556 - INFO - email sent
+2025-04-24 14:13:55,421 - INFO - Program terminated by user
+2025-04-24 14:26:13,101 - INFO - water not detected!
+2025-04-24 14:26:13,101 - INFO - current time hour: 14
+2025-04-24 14:26:14,636 - INFO - email sent
+2025-04-24 14:26:29,648 - INFO - Program terminated by user
+2025-04-24 14:27:35,987 - INFO - water not detected!
+2025-04-24 14:27:35,988 - INFO - current time hour: 14
+2025-04-24 14:27:37,483 - INFO - email sent
+2025-04-24 14:27:43,410 - INFO - Program terminated by user
+2025-04-24 14:37:09,083 - INFO - water detected!
+2025-04-24 14:37:09,084 - INFO - current time hour: 14
+2025-04-24 14:37:11,101 - INFO - email sent
+2025-04-24 14:37:20,302 - INFO - Program terminated by user
+2025-04-24 14:42:29,064 - INFO - water detected!
+2025-04-24 14:42:29,064 - INFO - current time hour: 14
+2025-04-24 14:42:47,471 - INFO - Program terminated by user
+2025-04-24 14:43:34,353 - INFO - water not detected!
+2025-04-24 14:43:35,515 - INFO - email sent
+2025-04-24 14:43:35,615 - INFO - current time hour: 14
+2025-04-24 14:43:35,616 - INFO - time interval not reached, email not send
+2025-04-24 14:43:39,044 - INFO - water not detected!
+2025-04-24 14:43:39,044 - INFO - time interval not reached, email not send
+2025-04-24 14:44:02,753 - INFO - Program terminated by user
+2025-04-24 14:45:39,607 - INFO - water not detected!
+2025-04-24 14:45:39,607 - INFO - current time hour: 14
+2025-04-24 14:45:40,746 - INFO - email sent
+2025-04-24 14:45:50,633 - INFO - water not detected!
+2025-04-24 14:45:52,547 - INFO - water detected!
+2025-04-24 14:45:53,223 - INFO - water not detected!
+2025-04-24 14:45:54,962 - INFO - water detected!
+2025-04-24 14:46:13,809 - INFO - water not detected!
+2025-04-24 14:46:40,809 - INFO - current time hour: 14
+2025-04-24 14:46:50,821 - ERROR - An error occurred: [Errno -3] Temporary failure in name resolution
+2025-04-24 14:50:07,078 - INFO - water not detected!
+2025-04-24 14:50:07,079 - INFO - current time hour: 14
+2025-04-24 14:50:10,529 - INFO - email sent
+2025-04-24 14:50:21,203 - INFO - water detected!
+2025-04-24 14:50:21,892 - INFO - water not detected!
+2025-04-24 14:50:45,113 - INFO - water detected!
+2025-04-24 14:50:46,461 - INFO - water not detected!
+2025-04-24 14:50:53,603 - INFO - water detected!
+2025-04-24 14:50:56,740 - INFO - water not detected!
+2025-04-24 14:50:58,548 - INFO - water detected!
+2025-04-24 14:51:10,085 - INFO - Program terminated by user
+2025-04-24 14:51:12,294 - INFO - water detected!
+2025-04-24 14:51:12,294 - INFO - current time hour: 14
+2025-04-24 14:51:13,454 - INFO - email sent
+2025-04-24 14:52:13,503 - INFO - current time hour: 14
+2025-04-24 14:52:14,762 - INFO - email sent
+2025-04-24 14:53:14,817 - INFO - current time hour: 14
+2025-04-24 14:53:16,017 - INFO - email sent
+2025-04-24 14:54:16,494 - INFO - current time hour: 14
+2025-04-24 14:54:17,819 - INFO - email sent
+2025-04-24 14:55:17,873 - INFO - current time hour: 14
+2025-04-24 14:55:19,490 - INFO - email sent
+2025-04-24 14:56:19,551 - INFO - current time hour: 14
+2025-04-24 14:56:20,848 - INFO - email sent
+2025-04-24 14:57:20,907 - INFO - current time hour: 14
+2025-04-24 14:57:22,482 - INFO - email sent
+2025-04-24 14:58:22,584 - INFO - current time hour: 14
+2025-04-24 14:58:23,822 - INFO - email sent
+2025-04-24 14:59:23,882 - INFO - current time hour: 14
+2025-04-24 14:59:24,828 - INFO - email sent
+2025-04-24 15:00:07,624 - INFO - Program terminated by user
+2025-04-24 15:01:32,101 - INFO - water detected!
+2025-04-24 15:01:32,101 - INFO - current time hour: 15
+2025-04-24 15:09:35,757 - INFO - Program terminated by user
